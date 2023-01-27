@@ -1,0 +1,12 @@
+﻿  게임설명.c
+C:\Users\rkddu\source\repos\춤신춤왕 게임\춤신춤왕 게임\게임설명.c(6,8): warning C4013: 'gotoxy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  고투함수.c
+  메인함수.c
+  이름입력.c
+C:\Users\rkddu\source\repos\춤신춤왕 게임\춤신춤왕 게임\이름입력.c(7,8): warning C4013: 'gotoxy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  전체 틀.c
+C:\Users\rkddu\source\repos\춤신춤왕 게임\춤신춤왕 게임\전체 틀.c(7,8): warning C4013: 'gotoxy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  첫 화면.c
+C:\Users\rkddu\source\repos\춤신춤왕 게임\춤신춤왕 게임\첫 화면.c(8,8): warning C4013: 'gotoxy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  춤신춤왕 게임.vcxproj -> C:\Users\rkddu\source\repos\춤신춤왕 게임\Debug\춤신춤왕 게임.exe

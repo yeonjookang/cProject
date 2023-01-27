@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <windows.h>
+#include <conio.h>
+#include <time.h>
+#include <stdlib.h>
+void map();
+void first_screen();
+void explain_game();
+void get_name();
